@@ -1,5 +1,0 @@
-{{#user}}
-Name: Siddhant Rawat
-Skills: React.js, Javascript, Java, HTML, CSS, Git, MySQL, Redux, React Router, SASS
-Email: rawatsiddhant72@gmail.com
-{{/user}}
